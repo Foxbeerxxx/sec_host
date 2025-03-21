@@ -25,10 +25,16 @@ sudo adduser cryptouser
 
 
 ```
+![1](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img1.png)`
+
+3. `Полностью на каталоге пользователя в home не разу не отработал пересобирал стенд 3 раза`
+![2](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img2.png)`
+
+4. `Как итог служба работает, шифрование производится, ключевую фразу запрашивает при подключении для расшифровки.`
+![3](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img3.png)`
+![4](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img4.png)`
 
 
-3. ``
-4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
@@ -41,7 +47,7 @@ sudo adduser cryptouser
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+
 
 
 ---
