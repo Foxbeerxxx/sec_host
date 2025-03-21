@@ -30,7 +30,8 @@ sudo adduser cryptouser
 3. `Полностью на каталоге пользователя в home не разу не отработал пересобирал стенд 3 раза`
 ![2](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img2.png)`
 
-4. `Как итог служба работает, шифрование производится, ключевую фразу запрашивает при подключении для расшифровки.`
+4. `Как итог служба работает, шифрование производится, ключевую фразу запрашивает при подключении для расшифровки на каталог Privat.`
+
 ![3](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img3.png)`
 
 ![4](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img4.png)`
