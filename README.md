@@ -77,4 +77,4 @@ sudo mount /dev/mapper/sdb1_crypt /mnt/sdb1crypt
 ```
 sudo df -h /mnt/sdb1crypt  
 ```
-![9](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img9.png)`
+![10](https://github.com/Foxbeerxxx/sec_host/blob/main/img/img10.png)`
